@@ -1,0 +1,302 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ballpoint Pens",
+    "Description": "Smooth writing ballpoint pens with comfortable grip.",
+    "CategoryID": 1,
+    "Price": 5.99,
+    "SalePrice": 4.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-01-15T09:30:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Notebook Set",
+    "Description": "Set of 3 ruled notebooks for school or office.",
+    "CategoryID": 1,
+    "Price": 12.99,
+    "SalePrice": 10.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-02-18T14:45:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Watercolor Paint Set",
+    "Description": "24-color watercolor paint set with brushes.",
+    "CategoryID": 3,
+    "Price": 19.99,
+    "SalePrice": 17.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-03-22T10:20:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Lipstick Collection",
+    "Description": "Set of 5 vibrant matte lipsticks.",
+    "CategoryID": 2,
+    "Price": 29.99,
+    "SalePrice": 24.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-04-25T16:30:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Handmade Greeting Cards",
+    "Description": "Pack of 10 handmade greeting cards for various occasions.",
+    "CategoryID": 5,
+    "Price": 14.99,
+    "SalePrice": 12.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-05-30T11:15:00"
+  },
+  {
+    "Id": 6,
+    "Name": "Plush Teddy Bear",
+    "Description": "Soft and cuddly plush teddy bear.",
+    "CategoryID": 6,
+    "Price": 19.99,
+    "SalePrice": 15.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-06-15T09:30:00"
+  },
+  {
+    "Id": 7,
+    "Name": "Leather Wallet",
+    "Description": "Genuine leather wallet with multiple card slots.",
+    "CategoryID": 9,
+    "Price": 34.99,
+    "SalePrice": 29.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-07-18T14:45:00"
+  },
+  {
+    "Id": 8,
+    "Name": "Canvas Handbag",
+    "Description": "Stylish canvas handbag with adjustable strap.",
+    "CategoryID": 8,
+    "Price": 49.99,
+    "SalePrice": 39.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-08-22T10:20:00"
+  },
+  {
+    "Id": 9,
+    "Name": "File Organizer",
+    "Description": "Expandable file organizer with 12 pockets.",
+    "CategoryID": 7,
+    "Price": 24.99,
+    "SalePrice": 19.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-09-25T16:30:00"
+  },
+  {
+    "Id": 10,
+    "Name": "Scented Candles",
+    "Description": "Set of 4 scented candles with relaxing aromas.",
+    "CategoryID": 4,
+    "Price": 22.99,
+    "SalePrice": 18.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-10-30T11:15:00"
+  },
+  {
+    "Id": 11,
+    "Name": "Fountain Pen",
+    "Description": "Elegant fountain pen with refillable ink.",
+    "CategoryID": 1,
+    "Price": 15.99,
+    "SalePrice": 12.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-11-15T09:30:00"
+  },
+  {
+    "Id": 12,
+    "Name": "Sketchbook",
+    "Description": "Hardcover sketchbook with 120 blank pages.",
+    "CategoryID": 3,
+    "Price": 17.99,
+    "SalePrice": 14.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2022-12-18T14:45:00"
+  },
+  {
+    "Id": 13,
+    "Name": "Eyeshadow Palette",
+    "Description": "12-color eyeshadow palette with mirror.",
+    "CategoryID": 2,
+    "Price": 25.99,
+    "SalePrice": 21.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-01-22T10:20:00"
+  },
+  {
+    "Id": 14,
+    "Name": "Birthday Cards",
+    "Description": "Pack of 10 colorful birthday cards with envelopes.",
+    "CategoryID": 5,
+    "Price": 9.99,
+    "SalePrice": 7.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-02-25T16:30:00"
+  },
+  {
+    "Id": 15,
+    "Name": "Action Figure",
+    "Description": "Collectible action figure with movable joints.",
+    "CategoryID": 6,
+    "Price": 29.99,
+    "SalePrice": 24.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-03-30T11:15:00"
+  },
+  {
+    "Id": 16,
+    "Name": "Men's Wallet",
+    "Description": "Slim leather wallet for men.",
+    "CategoryID": 9,
+    "Price": 27.99,
+    "SalePrice": 22.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-04-15T09:30:00"
+  },
+  {
+    "Id": 17,
+    "Name": "Tote Bag",
+    "Description": "Large canvas tote bag with inner pockets.",
+    "CategoryID": 8,
+    "Price": 39.99,
+    "SalePrice": 34.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-05-18T14:45:00"
+  },
+  {
+    "Id": 18,
+    "Name": "Accordion File",
+    "Description": "Accordion file folder with 13 expanding pockets.",
+    "CategoryID": 7,
+    "Price": 19.99,
+    "SalePrice": 16.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-06-22T10:20:00"
+  },
+  {
+    "Id": 19,
+    "Name": "Gift Box Set",
+    "Description": "Luxury gift box set for special occasions.",
+    "CategoryID": 4,
+    "Price": 49.99,
+    "SalePrice": 44.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-07-25T16:30:00"
+  },
+  {
+    "Id": 20,
+    "Name": "Gel Pens",
+    "Description": "Set of 10 colorful gel pens with smooth ink.",
+    "CategoryID": 1,
+    "Price": 9.99,
+    "SalePrice": 7.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-08-30T11:15:00"
+  },
+  {
+    "Id": 21,
+    "Name": "Acrylic Paint Set",
+    "Description": "12-color acrylic paint set with brushes.",
+    "CategoryID": 3,
+    "Price": 24.99,
+    "SalePrice": 19.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-09-15T09:30:00"
+  },
+  {
+    "Id": 22,
+    "Name": "Mascara Duo",
+    "Description": "Set of 2 volumizing mascaras.",
+    "CategoryID": 2,
+    "Price": 19.99,
+    "SalePrice": 16.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-10-18T14:45:00"
+  },
+  {
+    "Id": 23,
+    "Name": "Thank You Cards",
+    "Description": "Pack of 20 thank you cards with envelopes.",
+    "CategoryID": 5,
+    "Price": 12.99,
+    "SalePrice": 10.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-11-22T10:20:00"
+  },
+  {
+    "Id": 24,
+    "Name": "Barbie Doll",
+    "Description": "Classic Barbie doll with accessories.",
+    "CategoryID": 6,
+    "Price": 19.99,
+    "SalePrice": 16.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2023-12-25T16:30:00"
+  },
+  {
+    "Id": 25,
+    "Name": "Trifold Wallet",
+    "Description": "Men's trifold leather wallet with ID window.",
+    "CategoryID": 9,
+    "Price": 21.99,
+    "SalePrice": 18.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2024-01-30T11:15:00"
+  },
+  {
+    "Id": 26,
+    "Name": "Leather Handbag",
+    "Description": "Elegant leather handbag with gold hardware.",
+    "CategoryID": 8,
+    "Price": 99.99,
+    "SalePrice": 89.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2024-02-15T09:30:00"
+  },
+  {
+    "Id": 27,
+    "Name": "Document Holder",
+    "Description": "Leather document holder with zipper closure.",
+    "CategoryID": 7,
+    "Price": 34.99,
+    "SalePrice": 29.99,
+    "Image": "@/features/product-list/listing-page/assets/image.png",
+    "CreatedAt_Date": "2024-03-18T14:45:00"
+  },
+  {
+    "Id": 28,
+    "Name": "Decorative Figurine",
+    "Description": "Hand-painted decorative figurine.",
+    "CategoryID": 4,
+    "Price": 29.99,
+    "SalePrice": 24.99,
+    "Image": "@/features/product-list/listing-page/assets/decorative_figurine.jpg",
+    "CreatedAt_Date": "2024-04-22T10:20:00"
+  },
+  {
+    "Id": 29,
+    "Name": "Sticky Notes",
+    "Description": "Pack of 5 colorful sticky note pads.",
+    "CategoryID": 1,
+    "Price": 7.99,
+    "SalePrice": 5.99,
+    "Image": "@/features/product-list/listing-page/assets/sticky_notes.jpg",
+    "CreatedAt_Date": "2024-05-25T16:30:00"
+  },
+  {
+    "Id": 30,
+    "Name": "Coloring Book",
+    "Description": "Adult coloring book with intricate designs.",
+    "CategoryID": 3,
+    "Price": 14.99,
+    "SalePrice": 12.99,
+    "Image": "@/features/product-list/listing-page/assets/coloring_book.jpg",
+    "CreatedAt_Date": "2024-06-30T11:15:00"
+  }
+]

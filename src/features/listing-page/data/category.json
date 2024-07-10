@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Stationery"
+  },
+  {
+    "Id": 2,
+    "Name": "Beauty"
+  },
+  {
+    "Id": 3,
+    "Name": "Arts"
+  },
+  {
+    "Id": 4,
+    "Name": "Gift articles"
+  },
+  {
+    "Id": 5,
+    "Name": "Greeting cards"
+  },
+  {
+    "Id": 6,
+    "Name": "Dolls"
+  },
+  {
+    "Id": 7,
+    "Name": "Files"
+  },
+  {
+    "Id": 8,
+    "Name": "Hand bags"
+  },
+  {
+    "Id": 9,
+    "Name": "Wallets"
+  }
+]
